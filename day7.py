@@ -1,6 +1,5 @@
 import sys
 from collections import defaultdict
-from functools import cmp_to_key
 
 DAY = '07'
 mode = sys.argv[1]
