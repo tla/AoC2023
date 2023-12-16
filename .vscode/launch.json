@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Test input",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": "test",
+            "justMyCode": true
+        },
+        {
+            "name": "Real input",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": "real",
+            "justMyCode": true
+        }
+    ]
+}
